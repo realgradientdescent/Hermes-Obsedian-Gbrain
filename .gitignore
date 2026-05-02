@@ -1,0 +1,7 @@
+# Repo is docs-first; keep local/editor noise out
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
