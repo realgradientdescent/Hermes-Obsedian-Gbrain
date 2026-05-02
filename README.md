@@ -16,6 +16,15 @@ It is a persistent agent setup with:
 
 The result is an agent that does more than answer questions. It can remember context, manage recurring work, maintain a knowledge base, operate through tools, and keep improving through reusable procedures.
 
+## Start here
+
+If you want the recruiter-friendly version first:
+
+- **Case study:** [`docs/portfolio-case-study.md`](docs/portfolio-case-study.md)
+- **Technical system profile:** [`docs/live-system-profile.md`](docs/live-system-profile.md)
+
+If you want the full architecture story, keep reading below.
+
 ## Why this project matters
 
 Most AI demos stop at "look, it can chat."
@@ -418,7 +427,8 @@ It also shows product judgment:
 
 ## Repo contents
 
-- `README.md` — high-level case study and architecture
+- `README.md` — high-level overview and architecture
+- `docs/portfolio-case-study.md` — recruiter-facing case study
 - `docs/live-system-profile.md` — deeper technical profile of the audited live setup
 
 ## Final takeaway
